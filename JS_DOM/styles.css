@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.st1 {
+  height: 50px;
+  width: 50px;
+  background-color: brown;
+}
+
+.st2 {
+  height: 50px;
+  width: 50px;
+  background-color: red;
+}
+
+.st3 {
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+}
+
+#id1 {
+  height: 50px;
+  width: 50px;
+  background-color: black;
+}
+
+.class {
+  height: 30rem;
+  width: 30rem;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+
+  background-color: teal;
+}
+
+#id0 {
+  height: 500px;
+  width: 500px;
+  background-color: orange;
+}
+
+.atag {
+  height: 50px;
+  width: 50px;
+  background-color: blueviolet;
+  display: block;
+  border: 1px solid black;
+}
+
+.wrapatag {
+  height: 500px;
+  width: 500px;
+  background-color: lemonchiffon;
+}
